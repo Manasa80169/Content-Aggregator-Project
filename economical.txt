@@ -1,0 +1,6 @@
+Data from another 500 million accounts leaked: This time LinkedIn is under scanner
+
+
+Another data leak has been reported, this time involving LinkedIn with over 500 million accounts likely impacted. The report comes days after Facebook is under scanner over a data leak involving more than 533 million accounts, though the company states the data was scraped back in 2019.
+
+The latest LinkedIn leak was reported by CyberNews, which notes that the information of nearly 500 million LinkedIn profiles is up for sale on a popular hacker forum. The hackers also put up around 2 million records as proof-of-concept. The report notes that the data was likely scraped by hackers, which includes full names, email addresses, phone numbers, workplace information and more.
